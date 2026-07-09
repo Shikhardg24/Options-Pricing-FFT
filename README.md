@@ -6,7 +6,7 @@ An interactive quantitative finance dashboard that implements the landmark Carr-
 
 ## 📌 Project Overview
 
-This repository contains a full computational implementation developed as an academic exposition for the course **DMS613 (Introduction to Mathematical Finance)** under the supervision of **Prof. Sourav Majumdar**.
+This repository contains a full computational implementation developed as an academic exposition under the supervision of **Prof. Preena Samuel**.
 
 The main objective of this project was to explore how shifting option pricing problems from the time domain into the frequency domain allows for the simultaneous calculation of an entire chain of option strikes with remarkable speed ($O(N \log N)$ complexity), and to compare the resulting prices against the constant-volatility Black-Scholes benchmark.
 
