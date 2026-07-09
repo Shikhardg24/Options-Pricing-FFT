@@ -88,11 +88,7 @@ pip install streamlit numpy pandas scipy
 1. Clone the repository to your local machine:
    ```bash
    git clone [https://github.com/Shikhardg24/Option-Pricing-FFT.git](https://github.com/Shikhardg24/Option-Pricing-FFT.git)
-<<<<<<< HEAD
    cd Option-Pricing-FFT
-=======
-   cd Option-Pricing-Using-Fast-Fourier-Transform-FFT
->>>>>>> 623fb5a740f59e5718670fba2ca82199d210ca80
    ```
 2. Launch the local Streamlit server:
    ```bash
